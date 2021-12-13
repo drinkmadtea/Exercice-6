@@ -1,7 +1,0 @@
-C:\Users\dylan\source\repos\cned seance 1\Exercice 6\Exercice 6\obj\Debug\Exercice 6.csproj.SuggestedBindingRedirects.cache
-C:\Users\dylan\source\repos\cned seance 1\Exercice 6\Exercice 6\obj\Debug\Exercice 6.csproj.CoreCompileInputs.cache
-C:\Users\dylan\source\repos\cned seance 1\Exercice 6\Exercice 6\bin\Debug\Exercice 6.exe.config
-C:\Users\dylan\source\repos\cned seance 1\Exercice 6\Exercice 6\bin\Debug\Exercice 6.exe
-C:\Users\dylan\source\repos\cned seance 1\Exercice 6\Exercice 6\bin\Debug\Exercice 6.pdb
-C:\Users\dylan\source\repos\cned seance 1\Exercice 6\Exercice 6\obj\Debug\Exercice 6.exe
-C:\Users\dylan\source\repos\cned seance 1\Exercice 6\Exercice 6\obj\Debug\Exercice 6.pdb
